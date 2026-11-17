@@ -1,6 +1,6 @@
 # GitHub is for IDs, Too: Using Free Developer Tools to Build Custom LMS Interactives
 
-> "Gather with colleagues, recharge your practice, and celebrate the work shaping the future of digital learning."
+> "Gather with colleagues, recharge your practice, and celebrate the work shaping the future of digital learning." edit
 
 **Presenters:** Anna Everett & Jian Su (University of Tennessee, Knoxville, Digital Learning)
 
